@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: MP6 Style Icon
-Plugin URI: http://bendunkle.com/vector-icon
+Plugin URI: https://github.com/field2/mp6-style-icons
 Description: This is a bogus plugin to figure out a recommendation for plugin authors who want to include their own personalized icons that will match the mp6 style
 Version: 1.0
-Author: Ben Dunkle
-Author URI: http://bendunkle.com
+Author: Ben Dunkle, Till Krüss
+Author URI: http://bendunkle.com, http://tillkruess.com
 License: GPL2
 */
 
